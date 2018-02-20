@@ -1,0 +1,6 @@
+C:\Users\Umar\Downloads\Xml_Processing\Xml_Processing\Xml_Processing\bin\Debug\Xml_Processing.exe.config
+C:\Users\Umar\Downloads\Xml_Processing\Xml_Processing\Xml_Processing\bin\Debug\Xml_Processing.exe
+C:\Users\Umar\Downloads\Xml_Processing\Xml_Processing\Xml_Processing\bin\Debug\Xml_Processing.pdb
+C:\Users\Umar\Downloads\Xml_Processing\Xml_Processing\Xml_Processing\obj\Debug\Xml_Processing.csprojResolveAssemblyReference.cache
+C:\Users\Umar\Downloads\Xml_Processing\Xml_Processing\Xml_Processing\obj\Debug\Xml_Processing.exe
+C:\Users\Umar\Downloads\Xml_Processing\Xml_Processing\Xml_Processing\obj\Debug\Xml_Processing.pdb
